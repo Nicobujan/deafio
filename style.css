@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital@1&family=Mouse+Memoirs&family=Pacifico&family=Shrikhand&display=swap');
+
+
+header{
+height: 10vh;
+
+}
+main{
+    
+    height: 80vh;
+}
+footer{
+    
+    height: 10vh;
+}
+
+#fotos-muestra1 div img{
+    width: 300px;
+    height: 300px;
+}
+
+#fotos-muestra2 div img{
+    width: 300px;
+    height: 300px;
+}
+
+
+
+
+
+#logo{
+    font-family: 'Shrikhand', cursive;
+    color: #d5918e;
+}
+
+#navbarNav ul li a{
+    color:#e2b4b2 ;
+    font-family: 'Mouse Memoirs', sans-serif;
+
+}
+
+#contactanos{
+    font-family: 'Arvo', serif;
+    color: #d5918e;
+}
